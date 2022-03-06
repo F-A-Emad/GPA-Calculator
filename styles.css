@@ -1,6 +1,7 @@
-body{background-color: #ffe8e8;
-    background-image: radial-gradient(#f6205e 0.5px, #ffe8e8 0.5px);
+body{background-color: #633970;
+    background-image: radial-gradient(#9057bb 0.5px, #633970 0.5px);
     background-size: 10px 10px;
+    background-blend-mode: multiply;
     background-blend-mode: multiply;
     background-blend-mode: multiply;
     background-blend-mode: multiply;
@@ -18,13 +19,13 @@ color:white;
 user-select: none;}
 h5{margin-left: 10px;
     user-select: none;
-    font-size: 15px;}
-table{margin-top:30px; color: #fff; opacity: 0.7;}
+    font-size: 17px;}
+table{margin-top:30px; color: #fff;}
 .display-none{display: none;}
 tbody td{text-transform: uppercase;}
 .ppp{padding-bottom: 90px;}
-footer{opacity: 0.8;
+footer{
     font-family:serif;
-background-color: skyblue;
-color: black;
+    background-color: #9057bb;
+color: white;
 }
